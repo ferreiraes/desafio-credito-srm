@@ -1,0 +1,9 @@
+{
+  "clientes": [
+    { "id": 1, "nome": "João" },
+    { "id": 2, "nome": "Maria" }
+  ],
+  "solicitacoes": [
+    { "id": 101, "valor": 5000, "status": "aprovado", "historico": [4000, 3000], "pagina": 1, "limite": 10 }
+  ]
+}
