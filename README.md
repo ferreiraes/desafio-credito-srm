@@ -32,11 +32,11 @@ Este desafio técnico avalia suas habilidades em desenvolvimento e arquitetura.
 
 ## Contratos (Front-end)
 
-* Júnior: Consumir o JSON básico (clientes e solicitações simples).
+* Júnior: Consumir o JSON [básico](/junior.json) (clientes e solicitações simples).
 
-* Pleno: Consumir JSON com análise de crédito e histórico.
+* Pleno: Consumir JSON com [análise de crédito e histórico](/pleno.json).
 
-* Sênior: Consumir JSON com paginação e filtros.
+* Sênior: Consumir JSON com [paginação e filtros](/senior.json).
 
 ## Prazo e Entrega
 
